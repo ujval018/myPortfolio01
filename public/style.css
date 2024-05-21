@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(210, 232, 10);
+    text-align: center;
+  }
+  h1 {
+    color: rgb(18, 161, 217);
+    text-align: center;
+    
+  }
+  h2 {
+    color: rgb(14, 143, 212);
+  }
+  h3 {
+    color: rgb(11, 239, 201);
+  }
+  
+  p {
+    color: red;
+  }
+  
